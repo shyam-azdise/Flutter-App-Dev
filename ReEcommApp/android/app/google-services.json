@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351536282491",
+    "project_id": "maamedicos2",
+    "storage_bucket": "maamedicos2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351536282491:android:153f64492b79f9e62a1bde",
+        "android_client_info": {
+          "package_name": "com.example.maamedicos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFl7ead9KQQx12e7Cu6yEUCBj84ff2HA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
